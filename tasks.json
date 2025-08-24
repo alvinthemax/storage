@@ -3,13 +3,17 @@
     "id": 1755925302802,
     "text": "gopay pet",
     "children": [],
-    "checked": false
+    "checked": true,
+    "repeatable": true,
+    "checkCount": 1
   },
   {
     "id": 1755925312322,
     "text": "sign app",
     "children": [],
-    "checked": false
+    "checked": true,
+    "repeatable": true,
+    "checkCount": 1
   },
   {
     "id": 1755926021813,
@@ -19,10 +23,14 @@
         "id": 1755926687174,
         "text": "https://hub.morphl2.io/loyalty",
         "children": [],
-        "checked": false
+        "checked": true,
+        "repeatable": true,
+        "checkCount": 1
       }
     ],
-    "checked": false
+    "checked": true,
+    "repeatable": true,
+    "checkCount": 1
   },
   {
     "id": 1755925490876,
@@ -32,9 +40,39 @@
         "id": 1755925923515,
         "text": "https://studioartery.com/dashboard/quest",
         "children": [],
-        "checked": false
+        "checked": true
       }
     ],
-    "checked": false
+    "checked": true
+  },
+  {
+    "id": 1755937311606,
+    "text": "https://cerebro.xyz/sign-up?code=FE65B085",
+    "children": [],
+    "checked": true
+  },
+  {
+    "id": 1756006470482,
+    "text": "https://app.ethos.network/",
+    "children": [],
+    "checked": false,
+    "repeatable": false,
+    "checkCount": 0
+  },
+  {
+    "id": 1756038502618,
+    "text": "https://www.edgen.tech/aura/KulonCr",
+    "children": [],
+    "checked": false,
+    "repeatable": false,
+    "checkCount": 0
+  },
+  {
+    "id": 1756040826157,
+    "text": "$take tge",
+    "children": [],
+    "checked": false,
+    "repeatable": false,
+    "checkCount": 0
   }
 ]
