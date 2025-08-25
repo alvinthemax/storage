@@ -4,8 +4,8 @@
     "text": "gopay pet",
     "children": [],
     "checked": true,
-    "repeatable": true,
-    "checkCount": 1
+    "repeatable": false,
+    "checkCount": 0
   },
   {
     "id": 1755925312322,
