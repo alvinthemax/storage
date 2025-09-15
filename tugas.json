@@ -675,7 +675,7 @@
         "link": "https://testnet.pharosnetwork.xyz/",
         "aksi": "berulang",
         "status": "berlangsung",
-        "sorot": false
+        "sorot": true
       },
       {
         "id": "meu2a0f6fvvz8qqnhj",
@@ -799,7 +799,7 @@
         "link": "https://odyssey.uminetwork.com/quests",
         "aksi": "berulang",
         "status": "berlangsung",
-        "sorot": false
+        "sorot": true
       }
     ]
   },
@@ -1307,7 +1307,7 @@
         "link": "https://app.galxe.com/quest/D3/GCPw9t6X8o",
         "aksi": "satu kali",
         "status": "belum dimulai",
-        "sorot": false
+        "sorot": true
       }
     ]
   },
@@ -1391,7 +1391,7 @@
         "link": "https://testnet.incentiv.io/?source=migration",
         "aksi": "satu kali",
         "status": "belum dimulai",
-        "sorot": false
+        "sorot": true
       }
     ]
   },
@@ -1729,7 +1729,7 @@
         "link": "https://dispatch.spekter.games/quests",
         "aksi": "satu kali",
         "status": "belum dimulai",
-        "sorot": false
+        "sorot": true
       },
       {
         "id": "mfkjo6ubzzx2cnko01d",
