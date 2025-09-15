@@ -1,13 +1,26 @@
 [
   {
-    "id": 1757912876741,
-    "text": "tes",
-    "children": [],
-    "checked": true
+    "id": 1757939195762,
+    "text": "https://liquidfinance.capital/",
+    "children": [
+      {
+        "id": 1757939204885,
+        "text": "Pribadi, Airdrop1-3",
+        "children": [],
+        "checked": false
+      }
+    ],
+    "checked": false
   },
   {
-    "id": 1757912886173,
-    "text": "yap",
+    "id": 1757939213418,
+    "text": "https://alvinthemax.github.io/chainlist/evm/",
+    "children": [],
+    "checked": false
+  },
+  {
+    "id": 1757939220513,
+    "text": "https://eligible.lstcoins.org/",
     "children": [],
     "checked": false
   }
