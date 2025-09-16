@@ -220,7 +220,7 @@
         "link": "",
         "aksi": "berulang",
         "status": "berlangsung",
-        "sorot": false
+        "sorot": true
       }
     ]
   },
@@ -683,7 +683,7 @@
         "link": "https://testnet.pharosnetwork.xyz/experience",
         "aksi": "berulang",
         "status": "berlangsung",
-        "sorot": false
+        "sorot": true
       },
       {
         "id": "meu2jm2tdqvgqp8dqt",
@@ -775,7 +775,7 @@
         "link": "https://odyssey.uminetwork.com/quests",
         "aksi": "berulang",
         "status": "berlangsung",
-        "sorot": false
+        "sorot": true
       },
       {
         "id": "mewn93tuk7exozo5wy",
@@ -1308,6 +1308,14 @@
         "aksi": "satu kali",
         "status": "belum dimulai",
         "sorot": true
+      },
+      {
+        "id": "mfm0lmqk4sulj3ik7fs",
+        "nama": "Verif",
+        "link": "https://app.galxe.com/quest/D3/GCqvGt61Pi",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
       }
     ]
   },
@@ -1391,7 +1399,23 @@
         "link": "https://testnet.incentiv.io/?source=migration",
         "aksi": "satu kali",
         "status": "belum dimulai",
-        "sorot": true
+        "sorot": false
+      },
+      {
+        "id": "mflyndsrfkawz3ssup",
+        "nama": "Reff 1",
+        "link": "https://testnet.incentiv.io/login?refCode=kCeTNpU3bKam7YDw13WA6H",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfm024ncu52hvhkbuu",
+        "nama": "Reff 1 intract",
+        "link": "https://quest.intract.io/quest/68b012f3824333b780053f12?referralCode=WJkbkL&referralSource=QUEST_PAGE&referralLink=https%3A%2F%2Fquest.intract.io%2Fquest%2F68b012f3824333b780053f12",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
       }
     ]
   },
@@ -1451,7 +1475,7 @@
         "link": "https://syntetika.io/hub",
         "aksi": "berulang",
         "status": "berlangsung",
-        "sorot": false
+        "sorot": true
       }
     ]
   },
@@ -1498,7 +1522,7 @@
         "link": "https://app.ozak.ai/rewards",
         "aksi": "berulang",
         "status": "berlangsung",
-        "sorot": false
+        "sorot": true
       },
       {
         "id": "mfgdxg85z1dvhvige5",
@@ -1540,7 +1564,7 @@
         "link": "http://airdrop.paxi.pro",
         "aksi": "berulang",
         "status": "berlangsung",
-        "sorot": false
+        "sorot": true
       },
       {
         "id": "mfb32bw5aluy3dqddql",
@@ -1703,7 +1727,7 @@
         "link": "https://waitlist.kindredlabs.ai/dashboard",
         "aksi": "berulang",
         "status": "berlangsung",
-        "sorot": false
+        "sorot": true
       }
     ]
   },
@@ -1716,7 +1740,7 @@
         "link": "",
         "aksi": "berulang",
         "status": "berlangsung",
-        "sorot": false
+        "sorot": true
       }
     ]
   },
