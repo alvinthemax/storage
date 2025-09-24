@@ -7,7 +7,7 @@
         "nama": "Check in",
         "link": "https://hub.morphl2.io/loyalty",
         "aksi": "berulang",
-        "status": "berlangsung",
+        "status": "berakhir",
         "sorot": false
       },
       {
@@ -15,7 +15,7 @@
         "nama": "Reff",
         "link": "https://hub.morphl2.io/loyalty?referral_code=4JFCVSQ4",
         "aksi": "satu kali",
-        "status": "berlangsung",
+        "status": "berakhir",
         "sorot": false
       },
       {
@@ -23,7 +23,7 @@
         "nama": "Morfi Swap",
         "link": "https://app.morfi.io/swap",
         "aksi": "satu kali",
-        "status": "belum dimulai",
+        "status": "berakhir",
         "sorot": false
       }
     ]
@@ -416,7 +416,7 @@
         "nama": "Whitelist Studio",
         "link": "http://studio.openledger.xyz",
         "aksi": "satu kali",
-        "status": "berlangsung",
+        "status": "berakhir",
         "sorot": false
       },
       {
@@ -424,7 +424,7 @@
         "nama": "Dashboard",
         "link": "https://testnet.openledger.xyz/",
         "aksi": "satu kali",
-        "status": "berlangsung",
+        "status": "berakhir",
         "sorot": false
       },
       {
@@ -432,7 +432,7 @@
         "nama": "Register Airdrop",
         "link": "https://portal.openledgerfoundation.com",
         "aksi": "satu kali",
-        "status": "berlangsung",
+        "status": "berakhir",
         "sorot": false
       }
     ]
@@ -532,7 +532,15 @@
         "nama": "Faucet",
         "link": "https://faucet.0g.ai/",
         "aksi": "satu kali",
-        "status": "berlangsung",
+        "status": "berakhir",
+        "sorot": false
+      },
+      {
+        "id": "mfngf1leodyqars4ld",
+        "nama": "Eligible",
+        "link": "https://airdrop.0gfoundation.ai/flow",
+        "aksi": "satu kali",
+        "status": "berakhir",
         "sorot": false
       }
     ]
@@ -648,6 +656,14 @@
         "nama": "Swap",
         "link": "https://www.r2.money/dex",
         "aksi": "satu kali",
+        "status": "berakhir",
+        "sorot": false
+      },
+      {
+        "id": "mfxfbab97dwus425xts",
+        "nama": "Eligible",
+        "link": "https://www.r2.money/rewards",
+        "aksi": "satu kali",
         "status": "belum dimulai",
         "sorot": false
       }
@@ -724,7 +740,7 @@
         "nama": "Submit Email",
         "link": "https://www.uname.domains/",
         "aksi": "satu kali",
-        "status": "berlangsung",
+        "status": "berakhir",
         "sorot": false
       }
     ]
@@ -779,8 +795,8 @@
       },
       {
         "id": "mewn93tuk7exozo5wy",
-        "nama": "Reff",
-        "link": "",
+        "nama": "Reff 1",
+        "link": "https://odyssey.uminetwork.com?ref=UTSSXDC2",
         "aksi": "satu kali",
         "status": "berlangsung",
         "sorot": false
@@ -864,7 +880,7 @@
         "nama": "Reff",
         "link": "https://app.quackai.ai/quackipedia?inviterCode=jyut1q&",
         "aksi": "satu kali",
-        "status": "berlangsung",
+        "status": "berakhir",
         "sorot": false
       },
       {
@@ -880,7 +896,7 @@
         "nama": "Reff Pribadi",
         "link": "https://app.quackai.ai/quackipedia?inviterCode=fty5ut&",
         "aksi": "satu kali",
-        "status": "berlangsung",
+        "status": "berakhir",
         "sorot": false
       }
     ]
@@ -893,7 +909,7 @@
         "nama": "Spin berhadiah",
         "link": "https://app.binance.com/uni-qr/4BYjcyGc?utm_medium=web_share_copy",
         "aksi": "satu kali",
-        "status": "berlangsung",
+        "status": "berakhir",
         "sorot": false
       },
       {
@@ -901,7 +917,7 @@
         "nama": "1",
         "link": "https://app.binance.com/uni-qr/4zhJTLab?utm_medium=web_share_copy",
         "aksi": "satu kali",
-        "status": "belum dimulai",
+        "status": "berakhir",
         "sorot": false
       },
       {
@@ -909,7 +925,7 @@
         "nama": "Trade SOMI",
         "link": "https://www.bmwweb.biz/activity/trading-competition/spot-somi-listing-campaign",
         "aksi": "satu kali",
-        "status": "belum dimulai",
+        "status": "berakhir",
         "sorot": false
       }
     ]
@@ -964,7 +980,7 @@
         "nama": "Daftar",
         "link": "https://app.memoryproto.co",
         "aksi": "satu kali",
-        "status": "belum dimulai",
+        "status": "berakhir",
         "sorot": false
       }
     ]
@@ -1306,15 +1322,23 @@
         "nama": "Verif",
         "link": "https://app.galxe.com/quest/D3/GCPw9t6X8o",
         "aksi": "satu kali",
-        "status": "belum dimulai",
-        "sorot": true
+        "status": "berakhir",
+        "sorot": false
       },
       {
         "id": "mfm0lmqk4sulj3ik7fs",
         "nama": "Verif",
         "link": "https://app.galxe.com/quest/D3/GCqvGt61Pi",
         "aksi": "satu kali",
-        "status": "belum dimulai",
+        "status": "berakhir",
+        "sorot": false
+      },
+      {
+        "id": "mfnn3zqk6sk0kago2s3",
+        "nama": "Verif 8",
+        "link": "https://app.galxe.com/quest/D3/GCr8tt8nhV",
+        "aksi": "satu kali",
+        "status": "berakhir",
         "sorot": false
       }
     ]
@@ -1371,10 +1395,10 @@
     "lists": [
       {
         "id": "mf3gm1hd3x4rk0tfx7f",
-        "nama": "Dashboard",
+        "nama": "Dashboard Old",
         "link": "https://testnet.incentiv.net/",
         "aksi": "satu kali",
-        "status": "belum dimulai",
+        "status": "berakhir",
         "sorot": false
       },
       {
@@ -1413,6 +1437,14 @@
         "id": "mfm024ncu52hvhkbuu",
         "nama": "Reff 1 intract",
         "link": "https://quest.intract.io/quest/68b012f3824333b780053f12?referralCode=WJkbkL&referralSource=QUEST_PAGE&referralLink=https%3A%2F%2Fquest.intract.io%2Fquest%2F68b012f3824333b780053f12",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfntcrbs4dkbgn65lm7",
+        "nama": "Dashboard",
+        "link": "https://testnet.incentiv.io/",
         "aksi": "satu kali",
         "status": "belum dimulai",
         "sorot": false
@@ -1458,7 +1490,7 @@
     "lists": [
       {
         "id": "mf6dh7t61fnyoflozpz",
-        "nama": "Item Baru",
+        "nama": "Quest",
         "link": "https://points.zkverify.io/loyalty",
         "aksi": "satu kali",
         "status": "belum dimulai",
@@ -1564,7 +1596,7 @@
         "link": "http://airdrop.paxi.pro",
         "aksi": "berulang",
         "status": "berlangsung",
-        "sorot": true
+        "sorot": false
       },
       {
         "id": "mfb32bw5aluy3dqddql",
@@ -1618,6 +1650,30 @@
         "aksi": "satu kali",
         "status": "belum dimulai",
         "sorot": false
+      },
+      {
+        "id": "mfos1cszwlwrrzjfpfp",
+        "nama": "Reff 1",
+        "link": "https://www.gaiai.io/register?code=4OM5TF",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfos1wzg0vwhnth1eygp",
+        "nama": "Check-in",
+        "link": "https://www.gaiai.io/rewards",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": false
+      },
+      {
+        "id": "mfosfqr3i1g1sfp1zd7",
+        "nama": "AI Prompt",
+        "link": "https://www.gaiai.io/ai",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": false
       }
     ]
   },
@@ -1655,10 +1711,10 @@
     "lists": [
       {
         "id": "mfdk1j29og1yu5nd8t",
-        "nama": "Item Baru",
+        "nama": "Reff 1",
         "link": "https://app.megaphone.xyz/pages/onefootballclub?r=LXJ5bXuyb8WF",
         "aksi": "satu kali",
-        "status": "belum dimulai",
+        "status": "berlangsung",
         "sorot": false
       }
     ]
@@ -1707,6 +1763,14 @@
         "aksi": "satu kali",
         "status": "belum dimulai",
         "sorot": false
+      },
+      {
+        "id": "mfnmu0lzojjergbuqo",
+        "nama": "Reff prib",
+        "link": "https://www.ethgas.com/community/onboarding?referral=J3SHLBJ",
+        "aksi": "satu kali",
+        "status": "berlangsung",
+        "sorot": false
       }
     ]
   },
@@ -1740,7 +1804,7 @@
         "link": "",
         "aksi": "berulang",
         "status": "berlangsung",
-        "sorot": true
+        "sorot": false
       }
     ]
   },
@@ -1753,13 +1817,668 @@
         "link": "https://dispatch.spekter.games/quests",
         "aksi": "satu kali",
         "status": "belum dimulai",
-        "sorot": true
+        "sorot": false
       },
       {
         "id": "mfkjo6ubzzx2cnko01d",
         "nama": "Spin",
         "link": "https://dispatch.spekter.games/spin",
         "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": true
+      }
+    ]
+  },
+  {
+    "judul": "Warden Protocol",
+    "lists": [
+      {
+        "id": "mfnoev7f943k5xqu3a",
+        "nama": "Zealy",
+        "link": "https://zealy.io/cw/wardenprotocol/questboard",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfnoihz5pgi88k1il9r",
+        "nama": "App",
+        "link": "https://app.wardenprotocol.org/earn",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Solstice",
+    "lists": [
+      {
+        "id": "mfnou7sdheu86houehh",
+        "nama": "Reff 1",
+        "link": "https://app.megaphone.xyz/pages/solstice?r=LXJ5bXuyb8WF",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "American Fortress $AF",
+    "lists": [
+      {
+        "id": "mfnpggr6rm8r34n4qso",
+        "nama": "Galxe",
+        "link": "https://app.galxe.com/quest/e4W4vzDh6xFdf9ABPrNzGq/GC8Ubt6UMy",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": true
+      }
+    ]
+  },
+  {
+    "judul": "Jupiter Solana Checker",
+    "lists": [
+      {
+        "id": "mfnqffdz4iy5jcxzpd4",
+        "nama": "Web",
+        "link": "https://jup.ag/portfolio/airdrop-checker",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "SproutFi Testnet",
+    "lists": [
+      {
+        "id": "mfnqprzcxc9lh5wabe",
+        "nama": "Dashboard",
+        "link": "https://fluent.sproutfi.xyz/home",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfnqrca6n0uy6ij52g",
+        "nama": "Faucet",
+        "link": "https://fluent.sproutfi.xyz/claim/tasks",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": true
+      },
+      {
+        "id": "mfnqrr1vd2c2be5yfro",
+        "nama": "Reff 1",
+        "link": "973R8FPT",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfnqtc5bu6beqdw7kui",
+        "nama": "Input Reff",
+        "link": "https://fluent.sproutfi.xyz/profile/referral",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Mavryk",
+    "lists": [
+      {
+        "id": "mfnulhknt848wrb83e",
+        "nama": "Final Galxe",
+        "link": "https://app.galxe.com/quest/YxQGYqYQcCGDcfX7KZMU8j/GC18wt8Poj",
+        "aksi": "satu kali",
+        "status": "berakhir",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Lstcoins",
+    "lists": [
+      {
+        "id": "mfo6tswso1dmrs3epun",
+        "nama": "Checker",
+        "link": "https://checker.lstcoins.org/",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfo6ugi3h9gh131593s",
+        "nama": "SC base",
+        "link": "0xB1d06Bc186634EDCA3062FcB7D02C2BB6bAC8474",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Linera",
+    "lists": [
+      {
+        "id": "mfo7a10o3f9hxnj44tv",
+        "nama": "Portal",
+        "link": "https://portal.linera.net/quests",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": true
+      },
+      {
+        "id": "mfo7c2aprvinll6lbga",
+        "nama": "Guild",
+        "link": "https://guild.xyz/linera",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfozld1hlqwknvxv0z",
+        "nama": "Galxe",
+        "link": "https://app.galxe.com/quest/Linera/",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "MoolahNad",
+    "lists": [
+      {
+        "id": "mfo8x8cvytzjirwozd",
+        "nama": "Reff prib",
+        "link": "https://airdrop.moolahnad.xyz?ref=CLUOMFO8WA",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfo8xf4ux7arg18yi5",
+        "nama": "Reff 1",
+        "link": "https://airdrop.moolahnad.xyz?ref=5SIHMFO8TC",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Endless Protocol",
+    "lists": [
+      {
+        "id": "mfoa96lz39a6sd5z36n",
+        "nama": "Item Baru",
+        "link": "https://era.guild.xyz/endless-protocol/role/0a2e460a-43aa-49f1-bda7-6e2edab0b8f6",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfoaa0cu5kl42bq5xjs",
+        "nama": "Item Baru",
+        "link": "https://zealy.io/cw/endlessprotocol/invite/Xo5onF7y7Qhii74pHKvun",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfou8oc8avxgd4nl7zs",
+        "nama": "Daily GM",
+        "link": "https://zealy.io/cw/endlessprotocol/questboard",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": true
+      },
+      {
+        "id": "mfvvqnu4ghhbwop6p9t",
+        "nama": "Reff 1 Zealy",
+        "link": "https://zealy.io/cw/endlessprotocol/invite/sslkUNrN-tHuSfgE8k4GJ",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Base App",
+    "lists": [
+      {
+        "id": "mfowzgmmo81ug4znho",
+        "nama": "Invite Prib",
+        "link": "https://wallet.coinbase.com/beta/SBZKHBP4",
+        "aksi": "satu kali",
+        "status": "berakhir",
+        "sorot": false
+      },
+      {
+        "id": "mfowzv5tniinnfa4pv",
+        "nama": "Invite 1",
+        "link": "https://wallet.coinbase.com/beta/0KRL04VR",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": true
+      }
+    ]
+  },
+  {
+    "judul": "Dagama",
+    "lists": [
+      {
+        "id": "mfp17dn7so9ch1hfqgs",
+        "nama": "Reff 1",
+        "link": "https://airdrop.dagama.world/?ref=a177ae",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Lithos",
+    "lists": [
+      {
+        "id": "mfp2axqrx8b8ljhs4q",
+        "nama": "Reff 1",
+        "link": "https://lithos.to/?referralcode=j1crb13tcs5g2yzjhk",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Saxchain",
+    "lists": [
+      {
+        "id": "mfpbsyxwbpp3hfnke9e",
+        "nama": "Item Baru",
+        "link": "https://saxchain.org/airdrop",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Fatty",
+    "lists": [
+      {
+        "id": "mfqxn1br6xtk3q3jr96",
+        "nama": "Reff 1",
+        "link": "https://airdrop.fatty.io?code=claim",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfqxrtsrch2fkn5jppc",
+        "nama": "Task",
+        "link": "https://airdrop.fatty.io/tasks",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": true
+      },
+      {
+        "id": "mfqyd7wipaz8tig9s7",
+        "nama": "Zealy",
+        "link": "https://zealy.io/cw/fatty/questboard",
+        "aksi": "berulang",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Providence",
+    "lists": [
+      {
+        "id": "mfqyysmp5lm0khrxsys",
+        "nama": "Task",
+        "link": "https://hub.playprovidence.io/bounty",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": true
+      },
+      {
+        "id": "mfqz1sfcglarwntqxpo",
+        "nama": "Reff1",
+        "link": "16AD441B",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "PrimusLabs",
+    "lists": [
+      {
+        "id": "mfruxptzh81el7xw9co",
+        "nama": "Claim PHRS",
+        "link": "https://pay.primuslabs.xyz/claim?platform=x&chain=pharostestnet",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfrv9khqwtuh2hprjc9",
+        "nama": "Kirim",
+        "link": "https://pay.primuslabs.xyz",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfrvc3jeabhk6nmcp9v",
+        "nama": "Claim MON",
+        "link": "https://pay.primuslabs.xyz/claim?platform=x&chain=monadtestnet",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfrvk1j0iqw2c3k4i5",
+        "nama": "Kirim",
+        "link": "https://pay.primuslabs.xyz/send",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Knovus",
+    "lists": [
+      {
+        "id": "mfurvaaknwmqq1x2qwe",
+        "nama": "Check-in",
+        "link": "https://knovus.xyz/index.html",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": true
+      }
+    ]
+  },
+  {
+    "judul": "0G",
+    "lists": [
+      {
+        "id": "mfuzg5vs187darnqsfx",
+        "nama": "Claim",
+        "link": "https://airdrop.0gfoundation.ai/flow",
+        "aksi": "satu kali",
+        "status": "berakhir",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Mova Testnet Mars",
+    "lists": [
+      {
+        "id": "mfvw9ps0od18776jvvo",
+        "nama": "Faucet",
+        "link": "https://faucet.mars.movachain.com/#/faucet",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": false
+      },
+      {
+        "id": "mfvwbvfpci6je49ehow",
+        "nama": "Mint NFT",
+        "link": "http://marsboss.movachain.com",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfvxoi5bj3phbx539u8",
+        "nama": "Swap",
+        "link": "https://faucet.mars.movachain.com/#/swap",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "OpenMind",
+    "lists": [
+      {
+        "id": "mfvxz5dtdpw200jos8r",
+        "nama": "Reff 1",
+        "link": "https://fabric.openmind.org?invite_code=D6162B57",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Fervent Finance",
+    "lists": [
+      {
+        "id": "mfvyd646xoma4v8yqx9",
+        "nama": "Dashboard",
+        "link": "https://testnet.fervent.finance/",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Catapult",
+    "lists": [
+      {
+        "id": "mfxdpxx3f70yrp73grn",
+        "nama": "Claim Rewards",
+        "link": "https://catapult.trade/rewards",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfxybyt1xosm6js9uy",
+        "nama": "Micin",
+        "link": "https://catapult.trade/turbo/portfolio",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Emofi",
+    "lists": [
+      {
+        "id": "mfxdxalw20h5a72ptka",
+        "nama": "Checkin",
+        "link": "https://emofi.xyz/task",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": true
+      }
+    ]
+  },
+  {
+    "judul": "Concero",
+    "lists": [
+      {
+        "id": "mfxegmikvtnd86q5nz",
+        "nama": "Quest",
+        "link": "https://app.concero.io/rewards",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Teneo",
+    "lists": [
+      {
+        "id": "mfxerclgdabgd4mxr4",
+        "nama": "Submit Kode",
+        "link": "https://dashboard.teneo.pro/rewards",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "ProjectZero",
+    "lists": [
+      {
+        "id": "mfxg9gdenzkv2z98rri",
+        "nama": "Chat AI",
+        "link": "https://app.projectzero.io/chat",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": true
+      }
+    ]
+  },
+  {
+    "judul": "Ouinex Exchange",
+    "lists": [
+      {
+        "id": "mfxh4l29rc89ylri4zk",
+        "nama": "Reff Prib",
+        "link": "https://live.ouinex.com/signup?ref-code=7c686f1b-a898-4bd5-a4b9-593755506b6a",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfxhnxvtgj5q8dmie8q",
+        "nama": "Task SocialFi",
+        "link": "https://social.ouinex.com/tasks/social",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Titan Exchange SOL",
+    "lists": [
+      {
+        "id": "mfxiqysz21ddklhoqga",
+        "nama": "Reff 1",
+        "link": "app.titan.exchange/@cool",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "PEAQ S2",
+    "lists": [
+      {
+        "id": "mfxj6i25x5qo4s8jyb",
+        "nama": "Dashboard",
+        "link": "https://portal.peaq.xyz/portal/campaign/profile",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfxj8sdxk01ze3wxjw",
+        "nama": "Quest",
+        "link": "https://portal.peaq.xyz/portal/campaign/quests",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfxj8va8v1eu3iq7il",
+        "nama": "Item Baru",
+        "link": "",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Integra.",
+    "lists": [
+      {
+        "id": "mfxvr4rt065o7aqo5i0t",
+        "nama": "Portal",
+        "link": "https://portal.what-is-integra.com/missions",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": true
+      }
+    ]
+  },
+  {
+    "judul": "Polana",
+    "lists": [
+      {
+        "id": "mfxxvczgt6ma9u59qne",
+        "nama": "OG",
+        "link": "https://discord.com/channels/1375540678779601018/1403946470977179688",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": true
+      }
+    ]
+  },
+  {
+    "judul": "HeyElsa",
+    "lists": [
+      {
+        "id": "mfxykzsztnwhbdxeooj",
+        "nama": "Reff 1",
+        "link": "https://app.heyelsa.ai/referral/1ZHAVZ",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "KlokApp Mira",
+    "lists": [
+      {
+        "id": "mfy33mb0h0famc350mb",
+        "nama": "Reff 1",
+        "link": "https://klokapp.ai?referral_code=PXQ8286Y",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfy33w8eu2hzwjvts5h",
+        "nama": "AI",
+        "link": "https://klokapp.ai/app",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Intento",
+    "lists": [
+      {
+        "id": "mfy53ycqujj2vqi5wsm",
+        "nama": "Claim",
+        "link": "https://portal.intento.zone/claim",
+        "aksi": "satu kali",
         "status": "belum dimulai",
         "sorot": false
       }
