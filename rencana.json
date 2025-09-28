@@ -16,11 +16,85 @@
     "id": 1757939213418,
     "text": "https://alvinthemax.github.io/chainlist/evm/",
     "children": [],
-    "checked": false
+    "checked": true
   },
   {
     "id": 1757939220513,
     "text": "https://eligible.lstcoins.org/",
+    "children": [],
+    "checked": true
+  },
+  {
+    "id": 1758081685886.763,
+    "text": "https://airdrop.0gfoundation.ai/flow",
+    "children": [],
+    "checked": true
+  },
+  {
+    "id": 1758081696003.7422,
+    "text": "https://github.com/alvinthemax/storage/tree/main",
+    "children": [],
+    "checked": true
+  },
+  {
+    "id": 1758093471372.3254,
+    "text": "https://dashboard-testnet.doma.xyz/domain/lucky12345678910.ai",
+    "children": [
+      {
+        "id": 1758093510443.029,
+        "text": "https://dashboard-testnet.doma.xyz/domain/lucky9876543210.ai",
+        "children": [
+          {
+            "id": 1758093544529.1438,
+            "text": "https://dashboard-testnet.doma.xyz/domain/lucky112233445566778899.ai",
+            "children": [],
+            "checked": false
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": 1758093576104.7449,
+        "text": "https://dashboard-testnet.doma.xyz/",
+        "children": [],
+        "checked": false
+      },
+      {
+        "id": 1758093584732.9888,
+        "text": "https://testnet.d3.app/",
+        "children": [],
+        "checked": false
+      }
+    ],
+    "checked": true
+  },
+  {
+    "id": 1758104757328.665,
+    "text": "https://www.onchainscore.xyz/",
+    "children": [],
+    "checked": true
+  },
+  {
+    "id": 1758125570398.6372,
+    "text": "http://checker.lstcoins.org",
+    "children": [],
+    "checked": true
+  },
+  {
+    "id": 1758649612929.8872,
+    "text": "morph.bgw.live",
+    "children": [],
+    "checked": true
+  },
+  {
+    "id": 1758710099248.6794,
+    "text": "unvest $esH1 untuk claim vesting H1",
+    "children": [],
+    "checked": false
+  },
+  {
+    "id": 1759062806984.548,
+    "text": "https://bitlightlabs.com/airdrop",
     "children": [],
     "checked": false
   }
