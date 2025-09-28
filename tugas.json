@@ -273,6 +273,14 @@
         "aksi": "satu kali",
         "status": "berlangsung",
         "sorot": false
+      },
+      {
+        "id": "mfyws5bu44jc5z7c99v",
+        "nama": "OG",
+        "link": "https://discord.gg/mindoai",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
       }
     ]
   },
@@ -518,6 +526,14 @@
         "id": "mfgdz19j81oavfxo1z",
         "nama": "Deploy Token",
         "link": "https://launch.euclidprotocol.io/explore",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfyvgkhfcgzk3zidhx",
+        "nama": "Mainnet WL",
+        "link": "https://planet.euclidprotocol.io/mainnet",
         "aksi": "satu kali",
         "status": "belum dimulai",
         "sorot": false
@@ -960,14 +976,30 @@
         "link": "https://app.fuul.xyz/landing/rayls-loyalty-rewards",
         "aksi": "satu kali",
         "status": "berlangsung",
-        "sorot": false
+        "sorot": true
       },
       {
         "id": "mez27cqtdavxdwh9qvu",
-        "nama": "Reff",
+        "nama": "Reff 1",
         "link": "https://app.fuul.xyz/landing/rayls-loyalty-rewards?referrer=kulon",
         "aksi": "satu kali",
         "status": "berlangsung",
+        "sorot": false
+      },
+      {
+        "id": "mfz4wgg5o052c5invfc",
+        "nama": "Galxe Role",
+        "link": "https://app.galxe.com/quest/degf5vaoivxjsc6t7KimCy/GC5Pgt8ZRK?refer=space_home",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mg0f7uwevn1hmx3vm6",
+        "nama": "Reff 1 chap 2",
+        "link": "https://app.fuul.xyz/landing/rayls-loyalty-rewards?referrer=kulon",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
         "sorot": false
       }
     ]
@@ -1194,6 +1226,30 @@
         "id": "mf2dbuihxtsj9r0tz",
         "nama": "Extension",
         "link": "https://chromewebstore.google.com/detail/namso-validator/ccdooaopgkfbikbdiekinfheklhbemcd",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfzfxjx4dzo7nofvmea",
+        "nama": "Register",
+        "link": "https://beta.namso.network/",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfzg4fnh1i2l7x1hv13",
+        "nama": "Dashboard",
+        "link": "https://app.namso.network/dashboard/",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": true
+      },
+      {
+        "id": "mfzgabc69mosstnstd",
+        "nama": "Reff 1",
+        "link": "EAB6B20302A9",
         "aksi": "satu kali",
         "status": "belum dimulai",
         "sorot": false
@@ -2344,7 +2400,7 @@
         "link": "https://app.projectzero.io/chat",
         "aksi": "satu kali",
         "status": "belum dimulai",
-        "sorot": true
+        "sorot": false
       }
     ]
   },
@@ -2433,7 +2489,7 @@
         "link": "https://discord.com/channels/1375540678779601018/1403946470977179688",
         "aksi": "satu kali",
         "status": "belum dimulai",
-        "sorot": true
+        "sorot": false
       }
     ]
   },
@@ -2478,6 +2534,342 @@
         "id": "mfy53ycqujj2vqi5wsm",
         "nama": "Claim",
         "link": "https://portal.intento.zone/claim",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Uplink",
+    "lists": [
+      {
+        "id": "mfyvx2sani202yvpg9k",
+        "nama": "Dashboard",
+        "link": "https://portal.uplink.xyz/dashboard",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfyw3m6e1z3nq6wxj2m",
+        "nama": "Social Quest",
+        "link": "https://portal.uplink.xyz/social-missions",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "WhiteBridge",
+    "lists": [
+      {
+        "id": "mfz1o61uf5a8li0mqng",
+        "nama": "Quest",
+        "link": "https://app.whitebridge.network/earn",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfz1ocjdi8oemqbovcp",
+        "nama": "Reff 1",
+        "link": "https://app.whitebridge.network/referral?code=lLNRNtDc",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Ekox",
+    "lists": [
+      {
+        "id": "mfz3fpujetnozaornzu",
+        "nama": "Deposit",
+        "link": "https://holesky.etherscan.io/address/0x94373a4919b3240d86ea41593d5eba789fef3848",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfz3fr1253r3grn83tg",
+        "nama": "Zealy",
+        "link": "https://zealy.io/cw/ekox/questboard",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfz3frywzbonllrpmpf",
+        "nama": "Discord",
+        "link": "https://discord.com/invite/ekox",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfz3gd9ufbkslhn6qq",
+        "nama": "Testnet",
+        "link": "https://ekox.com/dashboard/restaking/id",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mg0an5vtjl1i89gjfv",
+        "nama": "Yapping",
+        "link": "https://pad.chaingpt.org/pools/ekox",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Sint Ai",
+    "lists": [
+      {
+        "id": "mfz3wb00kxsatat2iai",
+        "nama": "Quest",
+        "link": "https://app.sint.gg/app/quests",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": true
+      },
+      {
+        "id": "mg08lf8kso8psfia28p",
+        "nama": "Profil",
+        "link": "https://app.sint.gg/app/profile",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Forte",
+    "lists": [
+      {
+        "id": "mfz48n54d4ail0xcja9",
+        "nama": "Galxe Profile",
+        "link": "https://app.galxe.com/quest/ForteProtocol",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfz49mln7jaq8h9pow",
+        "nama": "Quest Galxe",
+        "link": "https://app.galxe.com/quest/ForteProtocol/GCeVLt6Gpk?refer=space_home",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Ritual",
+    "lists": [
+      {
+        "id": "mfz5kmjmgynygfk6m1",
+        "nama": "Reff 1",
+        "link": "https://ritual-synful.domino.page/?ref=246049",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mfz6emhdrdz6bjk0q28",
+        "nama": "Quest",
+        "link": "https://ritual-synful.domino.page/quests",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Kintsu",
+    "lists": [
+      {
+        "id": "mg09nt7eq9ql3voleq",
+        "nama": "wl reff 1",
+        "link": "https://kintsu.xyz/waitlist?ref=KulonCr",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Oroswap",
+    "lists": [
+      {
+        "id": "mg0b2bbl6qu0pd7jkxw",
+        "nama": "Zealy",
+        "link": "https://zealy.io/cw/oroswap/questboard/",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Irys",
+    "lists": [
+      {
+        "id": "mg0b8fl7ed3kg2eqey6",
+        "nama": "Daily Galxe",
+        "link": "https://app.galxe.com/quest/Irys/GCo13t6RXN",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mg0bhys5o8cooj2w2lh",
+        "nama": "Galxe",
+        "link": "https://app.galxe.com/quest/Irys/GCVs3t6iHA",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mg0f31emk5k8j9jf7l",
+        "nama": "Portal",
+        "link": "https://portal.irys.xyz",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Hypiq",
+    "lists": [
+      {
+        "id": "mg0brsh4sp5d53cypyc",
+        "nama": "dc",
+        "link": "https://discord.gg/hypiq",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mg0brtc16ir8gcvw135",
+        "nama": "wl",
+        "link": "https://hypiq.finance/",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "CoinVs",
+    "lists": [
+      {
+        "id": "mg0czsu2pt2u8dof6sn",
+        "nama": "Daily",
+        "link": "https://coinvs.io/profile",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": true
+      },
+      {
+        "id": "mg0d24sf6oymdsehgs9",
+        "nama": "Reff 1",
+        "link": "https://coinvs.io/r/alpha",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Sync Vault",
+    "lists": [
+      {
+        "id": "mg0dg3aijy8aw0q203o",
+        "nama": "Tuyul prib",
+        "link": "https://app.syncvault.com/quest/5",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mg0dgyhbghmrlr2yqe5",
+        "nama": "Check-in",
+        "link": "https://app.syncvault.com/quest",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": true
+      },
+      {
+        "id": "mg0eim8kzuwrp0s5iiq",
+        "nama": "Form",
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSdMO5OykE4WPLt7N27oi3pnmqTvB4snBJO9VUorxfHhurj13Q/viewform",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "NebulaAi",
+    "lists": [
+      {
+        "id": "mg0f1utm84d5ayvlrrv",
+        "nama": "Redeem devnet",
+        "link": "https://nebulai.network/opencompute/redeem",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": true
+      }
+    ]
+  },
+  {
+    "judul": "idOS",
+    "lists": [
+      {
+        "id": "mg1rvalx4dnp1bdlgwq",
+        "nama": "Reff Prib",
+        "link": "https://app.idos.network?ref=B851E472",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mg1rvuoecfw6116zxz9",
+        "nama": "Check-in",
+        "link": "https://app.idos.network/points",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": true
+      }
+    ]
+  },
+  {
+    "judul": "Mizu Doma",
+    "lists": [
+      {
+        "id": "mg26va2w7vbax3t8fv8",
+        "nama": "Faucet",
+        "link": "https://mizu-testnet.doma.xyz/faucet",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Wurk Fun",
+    "lists": [
+      {
+        "id": "mg2cfqs3fsn5km0vdxw",
+        "nama": "Dashboard",
+        "link": "https://wurk.fun/profile",
         "aksi": "satu kali",
         "status": "belum dimulai",
         "sorot": false
