@@ -976,7 +976,7 @@
         "link": "https://app.fuul.xyz/landing/rayls-loyalty-rewards",
         "aksi": "satu kali",
         "status": "berlangsung",
-        "sorot": true
+        "sorot": false
       },
       {
         "id": "mez27cqtdavxdwh9qvu",
@@ -998,6 +998,14 @@
         "id": "mg0f7uwevn1hmx3vm6",
         "nama": "Reff 1 chap 2",
         "link": "https://app.fuul.xyz/landing/rayls-loyalty-rewards?referrer=kulon",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mgav05f074zn8805bkt",
+        "nama": "Galxe tele",
+        "link": "https://app.galxe.com/quest/degf5vaoivxjsc6t7KimCy/GCpYht64sW",
         "aksi": "satu kali",
         "status": "belum dimulai",
         "sorot": false
@@ -1563,7 +1571,7 @@
         "link": "https://syntetika.io/hub",
         "aksi": "berulang",
         "status": "berlangsung",
-        "sorot": true
+        "sorot": false
       }
     ]
   },
@@ -1610,7 +1618,7 @@
         "link": "https://app.ozak.ai/rewards",
         "aksi": "berulang",
         "status": "berlangsung",
-        "sorot": true
+        "sorot": false
       },
       {
         "id": "mfgdxg85z1dvhvige5",
@@ -1785,6 +1793,14 @@
         "aksi": "satu kali",
         "status": "belum dimulai",
         "sorot": false
+      },
+      {
+        "id": "mgchbrhapfpjrfa17m",
+        "nama": "Item Baru",
+        "link": "https://quest.intract.io/quest/68decce3a8e84475f9eb35b5",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": true
       }
     ]
   },
@@ -1847,7 +1863,7 @@
         "link": "https://waitlist.kindredlabs.ai/dashboard",
         "aksi": "berulang",
         "status": "berlangsung",
-        "sorot": true
+        "sorot": false
       }
     ]
   },
@@ -1860,7 +1876,7 @@
         "link": "",
         "aksi": "berulang",
         "status": "berlangsung",
-        "sorot": false
+        "sorot": true
       }
     ]
   },
@@ -1881,7 +1897,7 @@
         "link": "https://dispatch.spekter.games/spin",
         "aksi": "berulang",
         "status": "berlangsung",
-        "sorot": true
+        "sorot": false
       }
     ]
   },
@@ -2361,7 +2377,7 @@
         "link": "https://emofi.xyz/task",
         "aksi": "berulang",
         "status": "berlangsung",
-        "sorot": true
+        "sorot": false
       }
     ]
   },
@@ -2636,7 +2652,7 @@
         "link": "https://app.sint.gg/app/quests",
         "aksi": "satu kali",
         "status": "belum dimulai",
-        "sorot": true
+        "sorot": false
       },
       {
         "id": "mg08lf8kso8psfia28p",
@@ -2804,7 +2820,7 @@
         "link": "https://app.syncvault.com/quest",
         "aksi": "berulang",
         "status": "berlangsung",
-        "sorot": true
+        "sorot": false
       },
       {
         "id": "mg0eim8kzuwrp0s5iiq",
@@ -2870,6 +2886,127 @@
         "id": "mg2cfqs3fsn5km0vdxw",
         "nama": "Dashboard",
         "link": "https://wurk.fun/profile",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "3Dos",
+    "lists": [
+      {
+        "id": "mg4h1m8lfc0ozsxkg6v",
+        "nama": "Item Baru",
+        "link": "",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Nemesis",
+    "lists": [
+      {
+        "id": "mgazgoltx3ue7cytrl",
+        "nama": "Quest",
+        "link": "https://wl.nemesis.trade/whitelist/nemesis-arena",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mgazq6bnyhpzghfb1cf",
+        "nama": "Dc",
+        "link": "https://discord.com/invite/XfqaJn6gcP",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mgcgbou9rnv3xevqpf",
+        "nama": "Reff prib",
+        "link": "BCRO5BG8IPWYJFW5Y4XML",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Bluwhale Ai",
+    "lists": [
+      {
+        "id": "mgazvsvryexinq435k",
+        "nama": "Item Baru",
+        "link": "",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Reppo",
+    "lists": [
+      {
+        "id": "mgb0cl31gfaqmuftd8s",
+        "nama": "Check-in",
+        "link": "https://reppo.ai/dashboard",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": true
+      },
+      {
+        "id": "mgb0dinbcwt7ednlubt",
+        "nama": "Reff 1",
+        "link": "https://reppo.ai?referral=did:privy:cmgb0bgz4006cl10c07ugbfb4",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mgb0ijrkzrfju7vemh",
+        "nama": "Vote",
+        "link": "https://reppo.ai/explore",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": false
+      }
+    ]
+  },
+  {
+    "judul": "Neuraverse",
+    "lists": [
+      {
+        "id": "mgdfqzr0j4g7muklblr",
+        "nama": "Faucet",
+        "link": "https://neuraverse.neuraprotocol.io/?section=faucet",
+        "aksi": "berulang",
+        "status": "berlangsung",
+        "sorot": true
+      },
+      {
+        "id": "mgds9hy69m89svfuha4",
+        "nama": "Bridge",
+        "link": "https://neuraverse.neuraprotocol.io/bridge",
+        "aksi": "satu kali",
+        "status": "belum dimulai",
+        "sorot": false
+      },
+      {
+        "id": "mgdscz0jmhjwlh7loar",
+        "nama": "Dashboard",
+        "link": "https://neuraverse.neuraprotocol.io/?section=leaderboard",
+        "aksi": "satu kali",
+        "status": "berlangsung",
+        "sorot": false
+      },
+      {
+        "id": "mgdsf5ark2ei81nufjk",
+        "nama": "Swap",
+        "link": "https://neuraverse.neuraprotocol.io/?section=zotto",
         "aksi": "satu kali",
         "status": "belum dimulai",
         "sorot": false
