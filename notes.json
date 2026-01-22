@@ -2,7 +2,12 @@
   {
     "id": "pai4wfd5",
     "note": "Contoh Judul",
-    "images": [],
+    "images": [
+      {
+        "url": "https://raw.githubusercontent.com/alvinthemax/storage/refs/heads/main/images/image_1768510182030_thaw67.jpg",
+        "uploadedAt": "2026-01-22T06:38:05.305Z"
+      }
+    ],
     "links": [],
     "timestamp": "2026-01-22T06:22:07.274Z"
   },
