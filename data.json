@@ -1,38 +1,6 @@
 [
   {
-    "id": "ibvfa2cr",
-    "note": "1",
-    "images": [
-      {
-        "url": "https://example.com/folder/444.jpg",
-        "uploadedAt": "2026-01-26T01:12:28.476Z"
-      }
-    ],
-    "links": [
-      {
-        "title": "Google",
-        "url": "https://google.com"
-      }
-    ]
-  },
-  {
-    "id": "sobemplz",
-    "note": "2",
-    "images": [
-      {
-        "url": "https://example.com/folder/foto-pesona.jpg",
-        "uploadedAt": "2026-01-26T01:09:06.440Z"
-      },
-      {
-        "url": "https://example.com/folder/908.jpg",
-        "uploadedAt": "2026-01-26T01:12:55.677Z"
-      }
-    ],
-    "links": [
-      {
-        "title": "Link",
-        "url": "https://www.gambar.com"
-      }
-    ]
+    "id": "c-1769472377851",
+    "title": "Anak Anak"
   }
 ]
