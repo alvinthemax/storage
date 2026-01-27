@@ -1,29 +1,14 @@
 [
   {
-    "id": "pai4wfd5",
-    "note": "Contoh Judul",
-    "images": [
-      {
-        "url": "https://raw.githubusercontent.com/alvinthemax/storage/refs/heads/main/images/image_1768510182030_thaw67.jpg",
-        "uploadedAt": "2026-01-22T06:38:05.305Z"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/alvinthemax/storage/refs/heads/main/images/image_1768509114761_4t5twc.jpg",
-        "uploadedAt": "2026-01-22T06:39:02.660Z"
-      }
-    ],
-    "links": [],
-    "timestamp": "2026-01-22T06:22:07.274Z"
+    "id": "c-1769472377851",
+    "title": "Anak Anak"
   },
   {
-    "id": "bn75qts7",
-    "note": "Konten lain",
-    "images": [
-      {
-        "url": "https://raw.githubusercontent.com/alvinthemax/storage/refs/heads/main/images/image_1768507102887_v7zrpu.jpg",
-        "uploadedAt": "2026-01-22T06:40:44.165Z"
-      }
-    ],
-    "links": []
+    "id": "c-1769472582513",
+    "title": "Wahyu"
+  },
+  {
+    "id": "c-1769472937392",
+    "title": "Hari Minggu"
   }
 ]
