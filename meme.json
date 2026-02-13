@@ -73,7 +73,7 @@
     "id": "ID-VQWT8YICV",
     "title": "YNTKTS",
     "createdAt": "2026-01-30T10:37:56.761Z",
-    "updatedAt": "2026-02-13T11:06:28.474Z",
+    "updatedAt": "2026-02-13T11:10:38.040Z",
     "heads": [
       {
         "id": 1770980788473,
@@ -83,9 +83,26 @@
             "id": 1770980795188,
             "type": "note",
             "val": "Tes"
+          },
+          {
+            "id": 1770980968135,
+            "type": "link",
+            "val": {
+              "url": "https://tes.com",
+              "title": "Tes Judul Link"
+            }
           }
         ],
         "content": "Tes"
+      },
+      {
+        "id": 1770981038040,
+        "type": "link",
+        "subs": [],
+        "content": {
+          "url": "https://dua.com",
+          "title": ""
+        }
       }
     ]
   }
