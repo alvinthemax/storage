@@ -2,21 +2,11 @@
   {
     "id": "ID-TBSGI948",
     "createdAt": "2026-03-05T08:30:30.174Z",
-    "updatedAt": "2026-03-05T08:32:58.235Z",
+    "updatedAt": "2026-03-05T08:33:46.769Z",
     "title": [
       {
         "val": "Tes",
         "heads": [
-          {
-            "id": "head-1772699448310-885",
-            "type": "image",
-            "val": [
-              {
-                "url": "https://raw.githubusercontent.com/alvinthemax/storage/main/storage/head_head-1772699448310-885_1772699451972.jpg"
-              }
-            ],
-            "subs": []
-          },
           {
             "id": "head-1772699578229-33",
             "type": "text",
