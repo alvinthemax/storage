@@ -124,28 +124,5 @@
     ],
     "createdAt": "2026-01-30T10:37:56.761Z",
     "updatedAt": "2026-03-06T04:53:57.539Z"
-  },
-  {
-    "id": "ID-ZH1TNZAIV",
-    "title": [
-      {
-        "val": "Aku tidak pernah sesedih ini sebelumnya",
-        "heads": [
-          {
-            "id": "head-1772715583399-45",
-            "type": "image",
-            "subs": [],
-            "val": [
-              {
-                "url": "https://raw.githubusercontent.com/alvinthemax/storage/refs/heads/main/images/1000428624.jpg",
-                "base64": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "createdAt": "2026-01-29T09:07:00.202Z",
-    "updatedAt": "2026-03-06T04:53:57.539Z"
   }
 ]
