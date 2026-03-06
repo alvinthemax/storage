@@ -1,26 +1,14 @@
 [
   {
     "id": "ID-DLNHL1X56",
+    "createdAt": "2026-03-06T04:56:40.883Z",
+    "updatedAt": "2026-03-06T04:56:50.718Z",
     "title": [
       {
-        "val": "Cihuy",
-        "heads": [
-          {
-            "id": "head-1772715583395-646",
-            "type": "image",
-            "subs": [],
-            "val": [
-              {
-                "url": "https://raw.githubusercontent.com/alvinthemax/storage/main/images/image_ID-DLNHL1X56_1770985366672_0_1770985381902.jpg",
-                "base64": ""
-              }
-            ]
-          }
-        ]
+        "val": "Bug",
+        "heads": []
       }
-    ],
-    "createdAt": "2026-02-13T12:22:22.349Z",
-    "updatedAt": "2026-03-05T21:43:00.713Z"
+    ]
   },
   {
     "id": "ID-64FA9YRA1",
